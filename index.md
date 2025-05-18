@@ -91,13 +91,13 @@
     <div class="container">
 
         <section class="text-center section">
-            <img src="placeholder.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
             <p class="text-lg text-gray-600">Language and Technology Student</p>
         </section>
 
         <section class="section">
-            <h2 class="section-title">About Me & Skills</h2>
+            <h2 class="section-title">About Me</h2>
             <p class="mb-6">
                 Language and Technology student with a focus on Natural Language
                 Processing and linguistics. Skilled in data acquisition, data analysis, and
@@ -109,10 +109,10 @@
             <h3 class="text-lg font-semibold mb-3">Skills:</h3>
             <ul class="skill-list">
                 <li class="skill-item">Python, HTML, and SQL</li>
-                <li class="skill-item">Machine Learning</li>
-                <li class="skill-item">LLMs and Prompt Engineering</li>
+                <li class="skill-item">LLMs and Machine Learning</li>
                 <li class="skill-item">Natural Language Processing</li>
                 <li class="skill-item">Linguistics</li>
+                <li class="skill-item">Research</li>
                 <li class="skill-item">Interpersonal/Communication skills</li>
             </ul>
         </section>
@@ -130,7 +130,7 @@
                     <li>Applied augmentation via English-to-Thai translation to increase the size of dataset.</li>
                 </ul>
                 <p class="mt-3">
-                    <a href="#" class="link-button">More Detail (Placeholder)</a>
+                    <a href="https://github.com/Nanthipat-K/github-pages/blob/7126040c3217d7da81c56d52fbac736983ae5f53/pdf/NeuThai%20reframing%20A%20Thai%20language%20neutral%20reframing%20dataset%20and%20model.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
 
