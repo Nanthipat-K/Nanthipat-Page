@@ -88,8 +88,7 @@
     <div class="container">
 
         <section class="section flex items-center"> <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
-               <p class="text-lg text-gray-600 mb-4">Language and Information Technologie Students</p> <div class="contact-info-header">
-               <p class="text-lg text-gray-600 mb-4">Chulalongkorn University</p> <div class="contact-info-header">
+                <p class="text-lg text-gray-600 mb-4">Language and Information Technologies (LangTech) student</p> <div class="contact-info-header"> <p><strong>Phone:</strong> 083-771-9567</p>
                     <p><strong>Email:</strong> nanthipat.ko@gmail.com</p>
                     </div>
             </div>
@@ -159,4 +158,3 @@
                     <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Assessment%20of%20a%20Large%20Language%20Model%E2%80%99s%20Reading%20and%20Comprehension%20Proficiency%20in%20the%20Thai%20Language.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
-     </div>
