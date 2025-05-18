@@ -113,9 +113,9 @@
                 <li class="skill-item">Linguistics</li>
                 <li class="skill-item">Research</li>
                 <li class="skill-item">Interpersonal/Communication skills</li>
-                <li class="skill-item">Interpersonal/Thai (Native)</li>
-                <li class="skill-item">Interpersonal/English (TOEIC: 930)</li>
-                <li class="skill-item">Interpersonal/French (A1)</li>
+                <li class="skill-item">Thai (Native)</li>
+                <li class="skill-item">English (TOEIC: 930)</li>
+                <li class="skill-item">French (A1)</li>
             </ul>
         </section>
 
