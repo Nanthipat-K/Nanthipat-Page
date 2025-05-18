@@ -88,7 +88,7 @@
     <div class="container">
 
         <section class="section flex items-center"> <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
-                <p class="text-lg text-gray-600 mb-4">Language and Information Technologies student, Chulalongkorn University</p>
+                <p class="text-lg text-gray-600 mb-4">Language and Information Technologies student Chulalongkorn University</p>
                 <div class="contact-info-header"> <p><strong>Phone:</strong> 083-771-9567</p>
                     <p><strong>Email:</strong> nanthipat.ko@gmail.com</p>
                     </div>
@@ -113,6 +113,9 @@
                 <li class="skill-item">Linguistics</li>
                 <li class="skill-item">Research</li>
                 <li class="skill-item">Interpersonal/Communication skills</li>
+                <li class="skill-item">Interpersonal/Thai (Native)</li>
+                <li class="skill-item">Interpersonal/English (TOEIC: 930)</li>
+                <li class="skill-item">Interpersonal/French (A1)</li>
             </ul>
         </section>
 
@@ -124,12 +127,12 @@
                 <p class="experience-date">November 2023 – December 2023</p>
                 <ul class="list-disc ml-5 text-gray-700 text-sm">
                     <li>Performed a 'neutral reframing' sentiment transfer task, converting negative Thai text to neutral.</li>
-                    <li>Led dataset creation and annotation for Thai text sourced from free and social media platforms.</li>
-                    <li>Fine-tuned multi-lingual models (mBart, mT5) pre-trained on Thai data using the mentioned dataset.</li>
-                    <li>Applied augmentation via English-to-Thai translation to increase the size of dataset.</li>
+                    <li>Led the creation of a custom dataset of 1008 Thai text samples sourced from the Wisesight corpus and the Thai toxic tweet dataset.</li>
+                    <li>Fine-tuned multi-lingual models (mBart, mT5) on the dataset, achieving competitive results in automatic and human evaluations.</li>
+                    <li>Investigated English-to-Thai translation augmentation, finding that it did not yield significant performance improvements for this task.</li>
                 </ul>
                 <p class="mt-3">
-                    <a href="https://github.com/Nanthipat-K/github-pages/blob/7126040c3217d7da81c56d52fbac736983ae5f53/pdf/NeuThai%20reframing%20A%20Thai%20language%20neutral%20reframing%20dataset%20and%20model.pdf" class="link-button">More Detail</a>
+                    <a href="pdf/NeuThai reframing A Thai language neutral reframing dataset and model.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
 
@@ -137,10 +140,10 @@
                 <h3 class="experience-title">Research Assistant at Motohashi Lab</h3>
                 <p class="experience-date">May 2024 – July 2024</p>
                 <ul class="list-disc ml-5 text-gray-700 text-sm">
-                    <li>Developed a system to extract and analyze patent and product information through web crawling.</li>
-                    <li>Applied topic modeling techniques to identify key themes within the data.</li>
+                    <li>Extracted and analyzed 621 Chulalongkorn University patents and product data from 612 companies via web crawling.</li>
+                    <li>Applied topic modeling techniques to identify key themes within the patent data.</li>
                     <li>Implemented a dual attention model to enhance the relationship mapping between textual data from patents and products.</li>
-                    <li>Developed a recommendation system leveraging the insights from the dual attention model to suggest relevant products based on a given patent or vice versa.</li>
+                    <li>Developed a patent-to-product recommendation system, identifying top 20 product keywords and top 3 firms for relevant suggestions.</li>
                 </ul>
                 <p class="mt-3">
                     <a href="pdf/Text mining by using Python2024 Report.pdf" class="link-button">More Detail</a>
@@ -151,9 +154,9 @@
                 <h3 class="experience-title">Senior Project</h3>
                 <p class="experience-date">January 2025 – April 2025</p>
                 <ul class="list-disc ml-5 text-gray-700 text-sm">
-                    <li>Evaluated the reading and comprehension proficiency of various Large Language Models (LLMs) in the Thai language, utilizing OpenRouter Al for API access to models and DSPy for experimenting different prompting strategies.</li>
-                    <li>Benchmarked multilingual (GPT-40, Gemini Flash 2.0, DeepSeek V3) and Thai fine-tuned models (Typhoon2 8B, 70B) using Thai national exam datasets (A-Level, CU-TPT, O-NET).</li>
-                    <li>Found that larger models achieved higher accuracy and few-shot prompting improved the performance especially smaller models. LLMs exceeded human average on less complex questions.</li>
+                    <li>Evaluated the Thai reading comprehension proficiency of 5 Large Language Models (GPT-4o, Gemini Flash 2.0, DeepSeek V3, Typhoon2 8B/70B) using 3 Thai national exam datasets (A-Level, CU-TPT, O-NET), leveraging OpenRouter AI for API access and DSPy for prompting strategies.</li>
+                    <li>Found that larger models achieved higher Exact Match Accuracy, and few-shot prompting significantly improved performance, particularly for smaller models like Typhoon2 8B (~34% accuracy increase).</li>
+                    <li>Found that LLMs exceeded average human performance on less complex questions (up to 31% on O-NET M3, 25% on O-NET M6).</li>
                 </ul>
                  <p class="mt-3">
                     <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Assessment%20of%20a%20Large%20Language%20Model%E2%80%99s%20Reading%20and%20Comprehension%20Proficiency%20in%20the%20Thai%20Language.pdf" class="link-button">More Detail</a>
