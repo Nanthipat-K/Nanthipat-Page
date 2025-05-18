@@ -40,9 +40,7 @@
             height: 150px;
             border-radius: 50%; /* Make it round */
             object-fit: cover; /* Ensure the image covers the area */
-            margin: 0 auto 20px auto; /* Center and add bottom margin */
             display: block; /* Center the image */
-            border: 4px solid #007bff; /* Add a border */
         }
         .experience-item {
             margin-bottom: 15px; /* Less space between experience items */
@@ -106,6 +104,8 @@
                 performance assessment in Thai. Passionate about building innovative
                 language technologies and ready to contribute to cutting-edge projects.
             </p>
+            <p class="text-gray-700"><strong>Phone:</strong> 083-771-9567</p>
+            <p class="text-gray-700"><strong>Email:</strong> nanthipat.ko@gmail.com</p>
             <h3 class="text-lg font-semibold mb-3">Skills:</h3>
             <ul class="skill-list">
                 <li class="skill-item">Python, HTML, and SQL</li>
@@ -160,15 +160,6 @@
                     <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Assessment%20of%20a%20Large%20Language%20Model%E2%80%99s%20Reading%20and%20Comprehension%20Proficiency%20in%20the%20Thai%20Language.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
-
-        </section>
-
-        <section class="section">
-            <h2 class="section-title">Contact</h2>
-            <p class="text-gray-700"><strong>Phone:</strong> 083-771-9567</p>
-            <p class="text-gray-700"><strong>Email:</strong> nanthipat.ko@gmail.com</p>
-            </section>
-
     </div>
 
 </body>
