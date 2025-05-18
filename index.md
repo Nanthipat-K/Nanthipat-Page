@@ -88,10 +88,9 @@
 
     <div class="container">
 
-        <section class="text-center section">
-            <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
-            <p class="text-lg text-gray-600">Language and Technology Student</p>
+        <section class="section flex items-center"> <img src="placeholder.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
+                <p class="text-lg text-gray-600">Language and Technology Student</p>
+            </div>
         </section>
 
         <section class="section">
@@ -104,8 +103,6 @@
                 performance assessment in Thai. Passionate about building innovative
                 language technologies and ready to contribute to cutting-edge projects.
             </p>
-            <p class="text-gray-700"><strong>Phone:</strong> 083-771-9567</p>
-            <p class="text-gray-700"><strong>Email:</strong> nanthipat.ko@gmail.com</p>
             <h3 class="text-lg font-semibold mb-3">Skills:</h3>
             <ul class="skill-list">
                 <li class="skill-item">Python, HTML, and SQL</li>
@@ -115,6 +112,7 @@
                 <li class="skill-item">Research</li>
                 <li class="skill-item">Interpersonal/Communication skills</li>
             </ul>
+            <p class="text-gray-700">nanthipat.ko@gmail.com</p>
         </section>
 
         <section class="section">
