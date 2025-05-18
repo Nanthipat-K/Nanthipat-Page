@@ -15,7 +15,7 @@
         .container {
             max-width: 800px; /* Slightly narrower container for minimal feel */
             margin: 40px auto; /* Add more vertical margin */
-            padding: 20px;
+            padding: 30px;
             background-color: #fff; /* White background for the content area */
             border-radius: 12px; /* More rounded corners */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
@@ -30,7 +30,7 @@
         }
         .section-title {
             font-size: 1.6rem; /* Slightly smaller title */
-            font-weight: 700;
+            font-weight: 600;
             margin-bottom: 15px;
             color: #222; /* Darker title color */
         }
