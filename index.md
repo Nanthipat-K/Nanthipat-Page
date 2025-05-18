@@ -88,7 +88,8 @@
     <div class="container">
 
         <section class="section flex items-center"> <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
-                <p class="text-lg text-gray-600 mb-4">Language and Information Technologies (LangTech) student</p> <div class="contact-info-header"> <p><strong>Phone:</strong> 083-771-9567</p>
+                <p class="text-lg text-gray-600 mb-4">Language and Information Technologies student, Chulalongkorn University</p>
+                <div class="contact-info-header"> <p><strong>Phone:</strong> 083-771-9567</p>
                     <p><strong>Email:</strong> nanthipat.ko@gmail.com</p>
                     </div>
             </div>
