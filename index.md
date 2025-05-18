@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -88,8 +87,10 @@
 
     <div class="container">
 
-        <section class="section flex items-center"> <img src="placeholder.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
-                <p class="text-lg text-gray-600">Language and Technology Student</p>
+        <section class="section flex items-center"> <img src="pdf/me.jpg" alt="Your Profile Picture" class="profile-picture mr-8"> <div> <h1 class="text-3xl font-bold text-gray-800 mb-1">Nanthipat Kongborrirak</h1>
+               <p class="text-lg text-gray-600 mb-4">Language and Technology Student</p> <div class="contact-info-header">
+                    <p><strong>Email:</strong> nanthipat.ko@gmail.com</p>
+                    </div>
             </div>
         </section>
 
@@ -142,7 +143,7 @@
                     <li>Developed a recommendation system leveraging the insights from the dual attention model to suggest relevant products based on a given patent or vice versa.</li>
                 </ul>
                 <p class="mt-3">
-                    <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Text%20mining%20by%20using%20Python2024%20Report.pdf" class="link-button">More Detail</a>
+                    <a href=pdf/Text mining by using Python2024 Report.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
 
@@ -159,6 +160,3 @@
                     </p>
             </div>
     </div>
-
-</body>
-</html>
