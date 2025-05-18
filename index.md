@@ -130,7 +130,7 @@
                     <li>Applied augmentation via English-to-Thai translation to increase the size of dataset.</li>
                 </ul>
                 <p class="mt-3">
-                    <a href="#" class="link-button">View Paper/Report (Placeholder)</a>
+                    <a href="#" class="link-button">More Detail (Placeholder)</a>
                     </p>
             </div>
 
@@ -144,7 +144,7 @@
                     <li>Developed a recommendation system leveraging the insights from the dual attention model to suggest relevant products based on a given patent or vice versa.</li>
                 </ul>
                 <p class="mt-3">
-                    <a href="#" class="link-button">View Paper/Report (Placeholder)</a>
+                    <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Text%20mining%20by%20using%20Python2024%20Report.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
 
@@ -157,7 +157,7 @@
                     <li>Found that larger models achieved higher accuracy and few-shot prompting improved the performance especially smaller models. LLMs exceeded human average on less complex questions.</li>
                 </ul>
                  <p class="mt-3">
-                    <a href="#" class="link-button">View Paper/Report (Placeholder)</a>
+                    <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Assessment%20of%20a%20Large%20Language%20Model%E2%80%99s%20Reading%20and%20Comprehension%20Proficiency%20in%20the%20Thai%20Language.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
 
