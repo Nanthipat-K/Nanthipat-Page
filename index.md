@@ -69,7 +69,7 @@
         }
          .link-button {
              display: inline-block;
-             background-color: #007bff; /* Blue button */
+             background-color: #e9e9eb; /* Blue button 007bff */
              color: white;
              padding: 8px 15px;
              margin-top: 10px;
@@ -159,6 +159,6 @@
                     <li>Found that LLMs exceeded average human performance on less complex questions (up to 31% on O-NET M3, 25% on O-NET M6).</li>
                 </ul>
                  <p class="mt-3">
-                    <a href="https://github.com/Nanthipat-K/github-pages/blob/e0b103ed4e898f2012628c475f55bfbf4b91d7e5/pdf/Assessment%20of%20a%20Large%20Language%20Model%E2%80%99s%20Reading%20and%20Comprehension%20Proficiency%20in%20the%20Thai%20Language.pdf" class="link-button">More Detail</a>
+                    <a href="pdf/Assessment of a Large Language Model’s Reading and Comprehension Proficiency in the Thai Language.pdf" class="link-button">More Detail</a>
                     </p>
             </div>
