@@ -69,7 +69,7 @@
         }
          .link-button {
              display: inline-block;
-             background-color: #e9e9eb; /* Blue button 007bff */
+             background-color: #007bff; /* Blue button 007bff */
              color: white;
              padding: 8px 15px;
              margin-top: 10px;
